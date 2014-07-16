@@ -1,0 +1,6 @@
+#listNames li:hover {
+  color: #0033FF;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
